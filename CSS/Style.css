@@ -12,7 +12,7 @@ body {
     height: 100vh;
     width: 100vw;
     background-color: rgb(11, 9, 9);
-    background-image: url('/img/photo.png');
+    background-image: url('../img/photo.png');
     background-repeat: no-repeat;
     background-position: right;
     background-size: contain;
